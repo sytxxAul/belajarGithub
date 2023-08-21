@@ -1,1 +1,5 @@
-berisi hello word
+<<<<<<<< development
+hello word saja 
+=======
+hello word buat eror agar bisa dilakukan conflict
+>>>>>>>> main
